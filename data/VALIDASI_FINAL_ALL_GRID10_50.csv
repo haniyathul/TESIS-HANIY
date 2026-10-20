@@ -1,0 +1,21 @@
+Grid_Size,Komponen,Alat_Validasi,Hasil_Utama
+10,Weak / Moderate / Strong,rho + Moran's I Y,PASS
+10,Pola spasial,Plot pola + Moran's I pola,PASS
+10,Homo / Heteroskedastis,Breusch-Pagan + varians per zona,PASS
+10,Spatial Weight Matrix,Visualisasi W + statistik tetangga,PASS
+20,Weak / Moderate / Strong,rho + Moran's I Y,PASS
+20,Pola spasial,Plot pola + Moran's I pola,PASS
+20,Homo / Heteroskedastis,Desain varians + Breusch-Pagan diagnostik,PASS
+20,Spatial Weight Matrix,Visualisasi W + statistik tetangga,PASS
+30,Weak / Moderate / Strong,rho + Moran's I Y,PASS
+30,Pola spasial,Plot pola + Moran's I pola,PASS
+30,Homo / Heteroskedastis,Desain varians + Breusch-Pagan diagnostik,PASS
+30,Spatial Weight Matrix,Visualisasi W + statistik tetangga,PASS
+40,Weak / Moderate / Strong,rho + Moran's I Y,PASS
+40,Pola spasial,Plot pola + Moran's I pola,PASS
+40,Homo / Heteroskedastis,Desain varians + Breusch-Pagan diagnostik,PASS
+40,Spatial Weight Matrix,Visualisasi W + statistik tetangga,PASS
+50,Weak / Moderate / Strong,rho + Moran's I Y,PASS
+50,Pola spasial,Plot pola + Moran's I pola,PASS
+50,Homo / Heteroskedastis,Desain varians + Breusch-Pagan diagnostik,PASS
+50,Spatial Weight Matrix,Visualisasi W + statistik tetangga,PASS
